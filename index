@@ -1,0 +1,298 @@
+<div class="home">
+  <div class="nav">
+    <img class="logo" src="logo0.svg" />
+    <div class="frame-2">
+      <div class="home2">Home</div>
+      <div class="about">About</div>
+      <div class="services">Services</div>
+      <div class="resources">Resources</div>
+      <div class="contact">Contact</div>
+    </div>
+    <div class="frame-6">
+      <div class="get-started">Get started</div>
+    </div>
+  </div>
+  <div
+    class="hero-section"
+    style="
+      background: url(hero-section0.png) center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    "
+  >
+    <div class="frame-5">
+      <div class="bringing-greater-food-security-to-africa">
+        Bringing Greater Food Security to Africa
+      </div>
+      <div
+        class="connecting-africa-s-farmers-and-markets-to-create-a-stable-thriving-food-system"
+      >
+        Connecting Africa’s farmers and markets to create a stable, thriving
+        food system.
+      </div>
+      <div class="get-start-button">
+        <div class="get-started-for-free">Get started for free</div>
+      </div>
+    </div>
+  </div>
+  <div class="frame-18">
+    <img class="about-image" src="about-image0.png" />
+    <div class="frame-17">
+      <div class="descrip">
+        <div class="about-us">About Us</div>
+        <div
+          class="we-are-an-agri-tech-company-dedicated-to-transforming-the-way-smallholder-farmers-in-rural-nigeria-engage-with-agriculture-and-the-economy-by-integrating-cutting-edge-technology-into-farming-practices-we-aim-to-bridge-the-gap-between-farmers-and-the-modern-tools-they-need-to-thrive"
+        >
+          We are an AgriTech company dedicated to transforming the way
+          smallholder farmers in rural Nigeria engage with agriculture and the
+          economy. By integrating cutting-edge technology into farming
+          practices, we aim to bridge the gap between farmers and the modern
+          tools they need to thrive.....
+        </div>
+      </div>
+      <div class="frame-16">
+        <div class="more">More &gt;</div>
+      </div>
+    </div>
+  </div>
+  <div class="frame-33">
+    <div class="our-services">Our Services</div>
+    <div class="frame-32">
+      <div class="frame-28">
+        <div class="frame-27">
+          <img class="solar-shop-2-bold" src="solar-shop-2-bold0.svg" />
+        </div>
+        <div class="marketplace">Marketplace</div>
+        <div
+          class="our-marketplace-empowers-farmers-by-providing-direct-access-to-a-vibrant-network-of-buyers-and-sellers-streamline-transactions-and-bridge-the-gap-between-farm-and-market-with-ease"
+        >
+          Our Marketplace empowers farmers by providing direct access to a
+          vibrant network of buyers and sellers. Streamline transactions and
+          bridge the gap between farm and market with ease.
+        </div>
+      </div>
+      <div class="frame-31">
+        <div class="frame-27">
+          <div class="pepicons-pop-chain"></div>
+          <img
+            class="token-coinex-smart-chain"
+            src="token-coinex-smart-chain0.svg"
+          />
+        </div>
+        <div class="storage-solutions">Storage Solutions</div>
+        <div
+          class="we-offer-smart-affordable-storage-solutions-to-reduce-post-harvest-losses-and-maximize-farmers-profits-ensuring-food-security-and-sustainability"
+        >
+          We offer smart, affordable storage solutions to reduce post-harvest
+          losses and maximize farmers&#039; profits, ensuring food security and
+          sustainability
+        </div>
+      </div>
+      <div class="frame-29">
+        <div class="frame-27">
+          <img
+            class="streamline-piggy-bank-solid"
+            src="streamline-piggy-bank-solid0.svg"
+          />
+        </div>
+        <div class="finance">Finance</div>
+        <div
+          class="we-source-for-finance-for-farmers-by-providing-small-accessible-funding-to-support-agricultural-growth-helping-them-invest-in-resources-and-improve-productivity"
+        >
+          We source for finance for farmers by providing small, accessible
+          funding to support agricultural growth, helping them invest in
+          resources and improve productivity.
+        </div>
+      </div>
+      <div class="frame-30">
+        <div class="frame-27">
+          <img
+            class="fluent-people-community-28-filled"
+            src="fluent-people-community-28-filled0.svg"
+          />
+        </div>
+        <div class="community">Community</div>
+        <div
+          class="our-community-support-and-resources-provide-farmers-with-essential-guidance-tools-and-connections-to-help-them-succeed-and-grow-together"
+        >
+          Our community support and resources provide farmers with essential
+          guidance, tools, and connections to help them succeed and grow
+          together.
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="community-brief">
+    <div class="frame-37">
+      <div class="latest-from-our-community">Latest from our community</div>
+      <div class="frame-36">
+        <div class="browse-more-articles">Browse more articles</div>
+      </div>
+    </div>
+    <div
+      class="frame-35"
+      style="
+        background: url(frame-350.png) center;
+        background-size: cover;
+        background-repeat: no-repeat;
+      "
+    >
+      <div class="frame-49">
+        <div class="frame-38">
+          <div class="how-to-make-your-food-products-stand-out">
+            How to Make Your Food Products Stand Out
+          </div>
+          <img class="ei-arrow-right" src="ei-arrow-right0.svg" />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="frame-46">
+    <div class="testimonials">Testimonials</div>
+    <div class="frame-45">
+      <div class="frame-42">
+        <div
+          class="this-community-has-given-me-new-farming-skills-and-a-reliable-support-network-my-harvests-are-better-and-i-feel-empowered-to-grow-more-for-my-family-and-community"
+        >
+          &quot;This community has given me new farming skills and a reliable
+          support network. My harvests are better, and I feel empowered to grow
+          more for my family and community.&quot;
+        </div>
+        <div class="frame-41">
+          <img class="frame-39" src="frame-390.png" />
+          <div class="frame-40">
+            <div class="amina-bashir">Amina Bashir</div>
+            <div class="small-scale-farmer">Small-scale farmer</div>
+          </div>
+        </div>
+      </div>
+      <div class="frame-43">
+        <div
+          class="thanks-to-this-platform-i-get-quality-produce-directly-from-farmers-it-s-been-a-boost-for-my-business-and-helps-support-local-agriculture"
+        >
+          &quot;Thanks to this platform, I get quality produce directly from
+          farmers. It’s been a boost for my business and helps support local
+          agriculture.&quot;
+        </div>
+        <div class="frame-41">
+          <img class="frame-392" src="frame-391.png" />
+          <div class="frame-402">
+            <div class="saleh-adamu">Saleh Adamu</div>
+            <div class="wholesaler">Wholesaler</div>
+          </div>
+        </div>
+      </div>
+      <div class="frame-44">
+        <div
+          class="i-love-buying-fresh-local-produce-and-knowing-exactly-where-my-food-comes-from-supporting-local-farmers-makes-me-feel-connected-and-healthy"
+        >
+          &quot;I love buying fresh, local produce and knowing exactly where my
+          food comes from. Supporting local farmers makes me feel connected and
+          healthy.&quot;
+        </div>
+        <div class="frame-41">
+          <img class="frame-392" src="frame-392.png" />
+          <div class="frame-40">
+            <div class="georgia-ajayi">Georgia Ajayi</div>
+            <div class="consumer">Consumer</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="meet-the-team">
+    <div class="meet-our-team">Meet Our Team</div>
+    <div class="pic-frame">
+      <div class="frame-21">
+        <div class="frame-25">
+          <img class="frame-22" src="frame-220.png" />
+          <div class="frame-24">
+            <div class="khalid-raji">Khalid Raji</div>
+            <div class="team-lead-ui-ux-designer">
+              Team Lead, UI/UX Designer
+            </div>
+            <div class="frame-23">
+              <img class="instagram-line" src="instagram-line0.svg" />
+              <img class="linkedin-fill" src="linkedin-fill0.svg" />
+              <img class="facebook-fill" src="facebook-fill0.svg" />
+              <img class="twitter-fill" src="twitter-fill0.svg" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="frame-222">
+        <div class="frame-25">
+          <img class="frame-22" src="frame-222.png" />
+          <div class="frame-242">
+            <div class="khadijah-sadi-garba">Khadijah Sadi Garba</div>
+            <div class="ui-ux-designer">UI/UX Designer</div>
+            <div class="frame-232">
+              <img class="instagram-line2" src="instagram-line1.svg" />
+              <img class="linkedin-fill2" src="linkedin-fill1.svg" />
+              <img class="facebook-fill2" src="facebook-fill1.svg" />
+              <img class="twitter-fill2" src="twitter-fill1.svg" />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="frame-233">
+        <div class="frame-25">
+          <img class="frame-22" src="frame-223.png" />
+          <div class="frame-242">
+            <div class="muhammad-auwal-sirajo">Muhammad Auwal Sirajo</div>
+            <div class="developer">Developer</div>
+            <div class="frame-232">
+              <img class="instagram-line3" src="instagram-line2.svg" />
+              <img class="linkedin-fill3" src="linkedin-fill2.svg" />
+              <img class="facebook-fill3" src="facebook-fill2.svg" />
+              <img class="twitter-fill3" src="twitter-fill2.svg" />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="frame-47"
+    style="
+      background: url(frame-470.png) center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    "
+  >
+    <div class="buy-fresh-farm-produce-when-you-download-our-mobile-app">
+      BUY FRESH FARM PRODUCE WHEN YOU DOWNLOAD OUR MOBILE APP
+    </div>
+  </div>
+  <div class="frame-154">
+    <div class="frame-153">
+      <img class="logo2" src="logo1.svg" />
+      <div class="frame-152">
+        <div class="download-our-app">Download our app</div>
+        <img class="image" src="image0.png" />
+      </div>
+    </div>
+    <div class="quick-link">
+      <div class="quick-links">Quick links</div>
+      <div class="home3">Home</div>
+      <div class="about2">About</div>
+      <div class="services2">Services</div>
+      <div class="resources2">Resources</div>
+      <div class="contact2">Contact</div>
+    </div>
+    <div class="frame-1">
+      <div class="terms-and-condition">Terms and Condition</div>
+      <div class="fa-qs">FAQs</div>
+      <div class="hello-agronet-com">Hello@agronet.com</div>
+    </div>
+    <div class="social-follow">
+      <div class="follow-us">Follow us</div>
+      <div class="soc-link">
+        <img class="instagram-line4" src="instagram-line3.svg" />
+        <img class="linkedin-fill4" src="linkedin-fill3.svg" />
+        <img class="facebook-fill4" src="facebook-fill3.svg" />
+        <img class="twitter-fill4" src="twitter-fill3.svg" />
+      </div>
+    </div>
+  </div>
+</div>
